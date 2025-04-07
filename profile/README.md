@@ -1,13 +1,5 @@
 # NextPhaseAudio
 
-<div align="center">
-  <img src="https://via.placeholder.com/150" alt="NextPhase Logo" width="150" height="150">
-  <br>
-  <h3>nextphaseaudio.com</h3>
-</div>
-
-## Our Products
-
 ### [NextPhaseAudio](https://www.nextphaseaudio.com)
 Main homepage
 
