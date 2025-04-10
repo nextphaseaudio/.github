@@ -1,4 +1,4 @@
-# NextPhaseAudio
+![background](./background.png)
 
 ### [NextPhaseAudio](https://www.nextphaseaudio.com)
 Main homepage
