@@ -9,6 +9,9 @@ Platform to help artists connect with their audience and create their own landin
 ### [NextPhaseJUCE](https://github.com/thxmos/NextPhaseJUCE)
 Modular JUCE 8 Boilerplate with React & SCSS and basic DSP
 
+### [NextPhaseDesignLibrary](https://github.com/thxmos/design-library)
+Re-useable component and style library with React, Typescript, Tailwind, Shadcn
+
 ## Connect
 
 - [Website](https://www.nextphaseaudio.com)
