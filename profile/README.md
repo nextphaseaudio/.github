@@ -1,7 +1,10 @@
 ![banner](./banner.png)
 
-### [NextPhaseAudio](https://www.nextphaseaudio.com)
+### [nextphaseaudio.com](https://www.nextphaseaudio.com)
 Main homepage
+
+### [Portal](https://www.portal.nextphaseaudio.com)
+Admin portal & API for accessing the NextPhaseDirectory across internal applications
 
 ### [Lumiere](https://lumiere.nextphaseaudio.com)
 Platform to help artists connect with their audience and create their own landing pages
