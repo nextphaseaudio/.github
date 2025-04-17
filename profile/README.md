@@ -15,7 +15,7 @@ Modular JUCE 8 Boilerplate with React & SCSS and basic DSP
 ### [Aegis](https://github.com/thxmos/aegis)
 Aegis is an authentication library to provide a unified approach to handle email, authentication, session management, and related security features for NextPhase applications
 
-### [NextPhaseDesignLibrary](https://github.com/thxmos/design-library)
+### [Design Library](https://github.com/thxmos/design-library)
 Re-useable component and style library with React, Typescript, Tailwind, Shadcn
 
 ## Connect
