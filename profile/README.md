@@ -13,15 +13,27 @@ Platform to help artists connect with their audience and create their own landin
 
 ## Plugins
 
-### [NextPhaseJUCE](https://github.com/thxmos/NextPhaseJUCE)
+### [NextPhaseJUCE](https://github.com/nextphaseaudio/NextPhaseJUCE)
 Modular JUCE 8 Boilerplate with React & SCSS and basic DSP
+
+### [Oxide-VST](https://github.com/nextphaseaudio/oxide-VST)
+A plugin that combines analog-style saturation with repeating echoes, filtering, and volume pulsing effects.
+
+### [Rupture-VST](https://github.com/nextphaseaudio/rupture-VST)
+A plugin that creates massive reverb swell and buildup effects.
+
+### [Proxy-VST](https://github.com/nextphaseaudio/proxy-VST)
+A rompler style synth with post-processing effects
+
+### [Alloy-VST](https://github.com/nextphaseaudio/alloy-VST)
+A multi-sampled multi-velocity drum sampler
 
 ## Libraries
 
-### [Aegis](https://github.com/thxmos/aegis)
+### [Aegis](https://github.com/nextphaseaudio/aegis)
 Aegis is an authentication library to provide a unified approach to handle email, authentication, session management, and related security features for NextPhase applications
 
-### [Design Library](https://github.com/thxmos/design-library)
+### [Design Library](https://github.com/nextphaseaudio/design-library)
 Re-useable component and style library with React, Typescript, Tailwind, Shadcn
 
 ## Connect
