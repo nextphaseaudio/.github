@@ -33,8 +33,11 @@ A multi-sampled multi-velocity drum sampler
 ### [Aegis](https://github.com/nextphaseaudio/aegis)
 Aegis is an authentication library to provide a unified approach to handle email, authentication, session management, and related security features for NextPhase applications
 
-### [Design Library](https://github.com/nextphaseaudio/design-library)
-Re-useable component and style library with React, Typescript, Tailwind, Shadcn
+### [Design Library](https://github.com/nextphaseaudio/NextPhaseDesignLibrary)
+A framework agnostic component library for NextPhase Applications, written in TS with wrappers in React and Angular
+
+### [DirectoryDbClient](https://github.com/nextphaseaudio/NextPhaseDesignLibrary)
+A framework agnostic component library for NextPhase Applications, written in TS with wrappers in React and Angular
 
 ## Connect
 
